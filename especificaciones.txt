@@ -1,0 +1,19 @@
+--herramientas
+python
+
+
+--objetivos
+determinar el partido al que pertenece
+determinar si el meme es positivo, negativo, neutral
+//determina si es a favor, en contra, neutral
+
+PROCESO
+
+--Cluster usando k-means
+Para hacer el cluster se van a tomar las columnas 
+de las reacciones.
+realizar el proceso de del libro
+
+--Normalizacion de los datos
+Aplicar normalizacion para los datos que son muy extensos
+
